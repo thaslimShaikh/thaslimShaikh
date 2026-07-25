@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on - DSA, React.js, and core AI skills<br>👯 Looking to collaborate on - AI/ML projects and real-world software systems<br>🤝 Looking for help with - Latest AI trends and production use<br>🌱 Currently learning - DSA, React.js, LLMs, RAG, Agentic AI<br>💬 Ask me about - Python, Machine Learning, Computer Vision, DSA<br>⚡ Fun fact - I choose growth over comfort and consistency over excuses
+🔭 Currently working on -  DSA, Software Engineering, and AI/LLM-based applications<br>👯 Looking to collaborate on - AI/ML projects and real-world software systems<br>🤝 Looking for help with - Latest AI trends and production-ready AI systems<br>🌱 Currently learning - DSA, React.js, LLMs, RAG, Agentic AI<br>💬 Ask me about - Python, Machine Learning, Computer Vision, DSA, NLP, and Generative AI<br>⚡ Fun fact - I enjoy turning challenging ideas into practical AI-powered solutions.
 
 
 ## 🌐 Socials:
